@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/nasdaq-exlporer/static/css/main.a4d99e91.css",
-    "main.js": "/nasdaq-exlporer/static/js/main.f9cccf9c.js",
-    "static/media/Data_Grid.mp4": "/nasdaq-exlporer/static/media/Data_Grid.cdfdac65d97a94a0c6be.mp4",
-    "static/media/logo.svg": "/nasdaq-exlporer/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/nasdaq-exlporer/index.html",
-    "main.a4d99e91.css.map": "/nasdaq-exlporer/static/css/main.a4d99e91.css.map",
-    "main.f9cccf9c.js.map": "/nasdaq-exlporer/static/js/main.f9cccf9c.js.map"
+    "main.css": "/nasdaq-explorer/static/css/main.a4d99e91.css",
+    "main.js": "/nasdaq-explorer/static/js/main.05ab1706.js",
+    "static/media/Data_Grid.mp4": "/nasdaq-explorer/static/media/Data_Grid.cdfdac65d97a94a0c6be.mp4",
+    "static/media/logo.svg": "/nasdaq-explorer/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/nasdaq-explorer/index.html",
+    "main.a4d99e91.css.map": "/nasdaq-explorer/static/css/main.a4d99e91.css.map",
+    "main.05ab1706.js.map": "/nasdaq-explorer/static/js/main.05ab1706.js.map"
   },
   "entrypoints": [
     "static/css/main.a4d99e91.css",
-    "static/js/main.f9cccf9c.js"
+    "static/js/main.05ab1706.js"
   ]
 }
